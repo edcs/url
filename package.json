@@ -1,0 +1,26 @@
+{
+  "name": "edcs-url",
+  "version": "1.0.0",
+  "description": "A tiny module which lets you grab URL arguments.",
+  "author": "Edward Coleridge Smith <e.coleridgesmith@edcs.me>",
+  "homepage": "http://ecs.io",
+  "main": "src/has.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edcs/url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edcs/url/issues"
+  },
+  "keywords": [
+    "url"
+  ],
+  "analyze": true,
+  "license": "MIT",
+  "scripts": {
+    "compile": "webpack src/url.js url.min.js -p"
+  },
+  "devDependencies": {
+    "webpack": "1.7.2"
+  }
+}
