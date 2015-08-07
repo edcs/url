@@ -1,6 +1,6 @@
 {
   "name": "edcs-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny module which lets you grab URL arguments.",
   "author": "Edward Coleridge Smith <e.coleridgesmith@edcs.me>",
   "homepage": "http://ecs.io",
